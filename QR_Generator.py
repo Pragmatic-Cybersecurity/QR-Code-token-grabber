@@ -5,7 +5,6 @@ import base64
 import time
 import os
 
-# Developer: Ghost,PinkMen
 # Educational purposes only
 
 def logo_qr():
